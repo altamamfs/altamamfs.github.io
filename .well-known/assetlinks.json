@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.altamamfs.twa",
+    "sha256_cert_fingerprints": ["7E:B1:05:9F:3F:37:9A:80:10:A9:B3:29:34:8F:E6:20:F7:27:38:FE:5F:C1:8F:C4:B0:0D:A5:95:63:FE:7B:CF"]
+  }
+}]
